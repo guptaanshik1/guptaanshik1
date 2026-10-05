@@ -4,10 +4,11 @@
 
 🌐 [Portfolio](https://me-gilt-two.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/anshik-gupta-5a99ab192/) · ✍️ [Hashnode](https://hashnode.com/@UserWithNoName) · 📧 guptaanshik1@gmail.com
 
-## What I'm working on
+## Profile summary
 
-- **Reclosed** — AI SMS/WhatsApp outreach platform: an AI agent runs multi-turn campaign conversations over Twilio. Built the Next.js app, Express API and send/webhook worker, a RAG knowledge base, an MCP server with OAuth-scoped tools, and migrated auth from Clerk to Supabase with MFA.
-- **Sourcefuse** — Full stack work on Shop Reservation System and Assesslens (React, Loopback4, PostgreSQL, Turborepo microservices).
+I'm a full stack engineer who has been shipping production software since 2022 across fintech and SaaS. I started on the frontend — complex React apps, design systems, multi-step flows and real-time sync — and kept going until I could build the whole thing: Node, Express, Loopback4 and FastAPI backends on PostgreSQL and Supabase, in microservice and Turborepo setups.
+
+Today I focus on **AI products built end to end**: agentic systems with Langgraph and Langchain, RAG pipelines, and MCP servers that connect models to real data and tools — with the security, auth and multi-tenant boundaries production needs. I also build in an **AI-native workflow** with Claude Code, custom skills, agents and spec-driven development to ship big features faster without dropping quality.
 
 ## AI-driven engineering
 
