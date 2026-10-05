@@ -8,7 +8,7 @@
 
 I'm a full stack engineer who has been shipping production software since 2022 across fintech and SaaS. I started on the frontend — complex React apps, design systems, multi-step flows and real-time sync — and kept going until I could build the whole thing: Node, Express, Loopback4 and FastAPI backends on PostgreSQL and Supabase, in microservice and Turborepo setups.
 
-Today I focus on **MCPs, skills and agents**: MCP servers that connect models to real data and tools, custom skills, and agents that automate real parts of the development workflow. I build in an **AI-native workflow** with Claude Code and spec-driven development to ship big features faster without dropping quality.
+Today I focus on **building products that leverage AI** — using MCP servers to connect models to real data and tools, and building custom skills and agents that automate real parts of the development workflow. I build in an **AI-native workflow** with Claude Code and spec-driven development to ship big features faster without dropping quality.
 
 ## AI-driven engineering
 
